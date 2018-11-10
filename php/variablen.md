@@ -12,6 +12,8 @@ Example Code Block
 ?>
 ```
 
+## ![](/assets/square.jpg)
+
 ## Datentypen
 
 | Typ | Beispiel |
