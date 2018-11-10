@@ -12,5 +12,13 @@ Example Code Block
 ?>
 ```
 
+## Datentypen
+
+| Typ | Beispiel |
+| :--- | :--- |
+| Boolean | true / false |
+| String | "Hallo" oder 'Hallo' |
+|  |  |
+
 
 
